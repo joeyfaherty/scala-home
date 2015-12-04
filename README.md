@@ -1,0 +1,2 @@
+# scala-home
+scala learning
