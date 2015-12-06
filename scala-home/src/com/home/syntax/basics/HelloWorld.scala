@@ -1,14 +1,12 @@
-package com.home
+package com.home.syntax.basics
 
 /**
  * HelloWorld scala program with explanation.
  */
 
-/* the object declaration introduces what is commonly known as a singleton object, 
- * that is a class with a single instance. 
- * The declaration above thus declares both a class called HelloWorld 
- * and an instance of that class, also called HelloWorld. 
- * This instance is created on demand, the first time it is used.
+/* the object declaration declares a singleton class, 
+ * with an instance method, main.  
+ * Think of object as a class with only static members.
  */
 object HelloWorld {
   

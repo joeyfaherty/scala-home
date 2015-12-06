@@ -1,10 +1,8 @@
-package com.home
+package com.home.syntax.basics
 
 //import java classes
 //we can import multiple classes using curly braces
 import java.util.{ Date, Locale }
-import java.text.DateFormat
-// wildcard import
 import java.text.DateFormat._
 
 object DateLocale {

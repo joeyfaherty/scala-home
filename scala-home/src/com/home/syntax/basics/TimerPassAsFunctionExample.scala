@@ -1,4 +1,4 @@
-package com.home
+package com.home.syntax.basics
 
 /**
  * Main method passes the timeFlies Function to the 

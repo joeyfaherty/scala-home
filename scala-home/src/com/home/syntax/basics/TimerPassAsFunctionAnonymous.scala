@@ -1,4 +1,4 @@
-package com.home
+package com.home.syntax.basics
 
 /**
  * Same as TimerPassAsFunctionExample but we remove the timeFlies function, 
